@@ -1,0 +1,8 @@
+{
+  "app": {
+    "title": "Titel",
+    "paragraph": "Hier werde ich einen Text hinzufügen"
+  },
+  "header": "Willkommen",
+  "text-form": { "title": "Einfacher Federkiel-Editor" }
+}

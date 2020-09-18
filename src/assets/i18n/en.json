@@ -1,0 +1,8 @@
+{
+  "app": {
+    "title": "Title",
+    "paragraph": "Here I will add a text"
+  },
+  "header": "Welcome",
+  "text-form": { "title": "Simple Quill Editor" }
+}
